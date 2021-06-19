@@ -5,3 +5,6 @@ Control panel for a Robot Arm implemented by PHP5  with Model-View-Controller (M
 
 
 ![screenshot2](https://user-images.githubusercontent.com/65139666/122630840-931ea980-d0cf-11eb-955f-8a7bdac9c162.jpeg)
+
+
+![screenshot3](https://user-images.githubusercontent.com/65139666/122630898-ed1f6f00-d0cf-11eb-90fd-5cc54d4647a4.jpeg)
